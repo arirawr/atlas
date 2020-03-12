@@ -1,5 +1,7 @@
 # Atlas, a theme for Discourse
 
+__This is a fork of [Atlas by awesomerobot](https://github.com/awesomerobot/atlas)__
+
 Atlas features an alternate topic list layout intended to highlight topic excerpts, and also includes space for an (optional) sidebar. Categories feature user-dismissable headers populated by the "About" topic. 
 
 ![12%20PM|625x499](https://d11a6trkgmumsb.cloudfront.net/optimized/3X/b/8/b8f1197639f15c182e9c2945e958ede81483639e_2_1250x998.png) 
