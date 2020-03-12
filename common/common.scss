@@ -11,18 +11,17 @@ $smoke-dark: #d3dce6;
 $smoke-darker: #c0ccda;
 $granite: #5e6a74;
 $slate: #3a434b;
-$n-light: #e0f2f0;
-$n: #20b2aa;
-$n-dark: #00938c;
+$n-light: #dfeff2;
+$n: #0fa0b4;
+$n-dark: #1d6874;
 
 // Fonts
 
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web:900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
 
 // Global style
 html {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 #main-outlet {
@@ -333,7 +332,6 @@ pre {
 }
 
 span.date-section {
-  font-family: Titillium Web;
   font-size: 20px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -1079,7 +1077,6 @@ nav.post-controls .highlight-action {
   h3.suggested-topics-title {
     border-bottom: 1px solid $primary;
     padding-bottom: 2px;
-    font-family: Titillium Web;
     font-size: 25px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -1253,7 +1250,6 @@ th.category,
   color: $primary;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: Titillium Web;
   font-size: 1.43em;
   letter-spacing: 2px;
 }
