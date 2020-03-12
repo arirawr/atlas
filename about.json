@@ -1,11 +1,11 @@
 {
-  "name": "AtlasEmbarkDark",
+  "name": "AtlasEmbark",
   "about_url": "",
   "assets": {},
   "color_schemes": {
-    "AtlasEmbarkDark": {
-      "primary": "FFFFFF",
-      "secondary": "333333",
+    "AtlasEmbark": {
+      "primary": "333333",
+      "secondary": "FFFFFF",
       "tertiary": "0FA0B4",
       "quaternary": "0FA0B4",
       "header_background": "000000",
